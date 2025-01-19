@@ -1,11 +1,12 @@
-#1)	Напишите программу, которая проверяет последнюю цифру числа.
-#Если последняя цифра числа 3, то вывести True иначе вывести False.
-#print("Задание 1")
-#a = int(input())
 from itertools import count
 
 from scipy.special import factorial
 from unicodedata import digit
+#1)	Напишите программу, которая проверяет последнюю цифру числа.
+#Если последняя цифра числа 3, то вывести True иначе вывести False.
+#print("Задание 1")
+#a = int(input())
+
 
 #if (a % 10) == 3:
 #    print('True')
