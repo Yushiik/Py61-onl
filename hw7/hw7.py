@@ -1,7 +1,6 @@
 #print("Задание 1")
 #list_nechet = [i for i in range(10,100) if i%2 == 1]
 #print(list_nechet)
-from string import digits
 
 #print("Задание 2")
 #list_stp2 = [i**2 for i in range(1, 11)]
