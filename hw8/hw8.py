@@ -2,7 +2,6 @@
 #lst = ["wqrwegf", "wqr", "dqwqs", "wqdqfd"]
 #sorted_lst = sorted(lst, key = len, reverse = True)
 #print(sorted_lst)
-from functools import total_ordering
 
 #print("Задание 2")
 #lst = ["awseaad", "weaffre", "sawdaf", "edwrfrafrea"]
